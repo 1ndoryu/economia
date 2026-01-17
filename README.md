@@ -1,68 +1,55 @@
-# 🎓 Proyecto Economía Autodidacta
+# 🎓 Proyecto Economía de Élite (Bootcamp Autodidacta)
 
-Este repositorio organiza tu camino para dominar la economía desde cero. Todo está simplificado en 3 archivos clave y 7 carpetas temáticas.
+Este no es un curso amable. Es un **entrenamiento de alto rendimiento** para dominar la economía.
+Si buscas palmaditas en la espalda o "aprender jugando", cierra este repositorio. Aquí venimos a estudiar con **Rigor Académico Extremo**.
 
-## 📂 Los 3 Archivos Maestros
+## 📂 Organización del Proyecto
 
-1.  **`README.md`** (Este archivo): Tu centro de control. Explica cómo estudiar.
-2.  **`TEMARIO.md`**: Tu mapa de ruta. Contiene la lista detallada de temas a estudiar.
-3.  **`PLANTILLA.md`**: Tu herramienta de trabajo. Copia este formato para cada tema nuevo.
+El contenido está dividido en 7 fases. En cada una encontrarás:
+1.  **Materiales:** La teoría cruda.
+2.  **To-Do Lists:** Tu hoja de ruta.
+3.  **_Ensayos:** Donde demostrarás que no eres un loro repitiendo textos.
+4.  **_Evaluacion:** Donde serás juzgado sin piedad.
 
-## ⛔ Regla de Oro (CRÍTICO)
+| Etapa              | Contenido                              |
+| :----------------- | :------------------------------------- |
+| `01_Fundamentos`   | Escasez, Incentivos, Modelos Mentales. |
+| `02_Microeconomia` | Consumidores, Empresas, Mercado.       |
+| ...                | ...                                    |
 
-Este proyecto **NO CONTIENE INFORMACIÓN NI EXPLICACIONES**.
-Su **ÚNICA** función es organizar tu estudio por etapas.
-*   ❌ No esperes encontrar definiciones de "Inflación" aquí.
-*   ✅ Encontrarás una tarea que diga: "Investigar definición de Inflación y anotar 3 ejemplos".
-*   Todo el contenido debe ser **ACCIONABLE** (To-Do List).
+## ⚔️ El Algoritmo de Estudio (Workflow)
 
-## 🚀 Metodología de Estudio
+Sigue estos pasos en orden exacto. No te saltes ninguno.
 
-1.  **Elige un tema:** Abre `TEMARIO.md` y selecciona el siguiente punto sin marcar `[ ]`.
-2.  **Investiga:** Busca información (libros, videos, artículos) sobre ese tema específico.
-3.  **Documenta:**
-    *   Ve a la carpeta de la etapa correspondiente (ej: `01_Fundamentos`).
-    *   Crea un archivo nuevo (ej: `costo_oportunidad.md`).
-    *   Copia el contenido de `PLANTILLA.md` y llénalo con lo que aprendiste.
-4.  **Marca:** Vuelve a `TEMARIO.md` y marca el tema como completado `[x]`.
+### PASO 1: Inmersión (Lectura)
+1.  Abre el archivo índice del tema actual (ej: `01_Fundamentos/1.1_Naturaleza.md`).
+2.  Allí verás una lista de "Materiales de Estudio". Abre el primero.
+3.  Estudia el material. No lo escanees, **estúdialo**.
+4.  Vuelve al índice y marca la casilla `[x]` correspondiente.
+5.  Repite hasta completar todos los materiales del tema 1.1.
 
-## 🏛️ El Rol de la IA: Cátedra y Evaluación Rigurosa
+### PASO 2: Síntesis (Escritura)
+Una vez marcadas todas las casillas del tema 1.1:
+1.  Cierra todos los materiales (hazlo de memoria si puedes).
+2.  Crea un archivo nuevo en `01_Fundamentos/_Ensayos/` llamado `Ensayo_1.1.md`.
+3.  **Escribe un ensayo** explicando lo que acabas de aprender.
+    *   *Requisito:* Debes conectar los conceptos. Ej: "¿Cómo se relaciona la escasez de Robbins con el costo de oportunidad?".
+    *   *Prohibido:* Hacer listas. Quiero prosa argumentativa.
 
-La IA no es un simple asistente en este proyecto; actúa como un **Catedrático Senior de Economía**. Su estándar es la excelencia académica y la comprensión profunda.
+### PASO 3: Iteración
+1.  Repite el paso 1 y 2 para el siguiente tema (1.2, luego 1.3...).
+2.  Solo cuando tengas **los 3 ensayos escritos** (uno por tema), avanzas al paso final.
 
-La subcarpeta **`_Evaluacion`** en cada fase es el único lugar donde la IA tiene "permiso de cátedra" para explicar, corregir y debatir.
+### PASO 4: El Juicio (Evaluación)
+1.  Ve a la carpeta `_Evaluacion`.
+2.  Pídeme explícitamente: *"He terminado la Fase 1. Corrige mis ensayos y hazme el examen."*
+3.  Yo leeré tus ensayos. Si son mediocres, te mandaré a reescribirlos. Si son sólidos, te haré un examen oral y práctico.
 
-### 1. Protocolo de "Verdad Verificada" (Anti-Alucinación)
-La IA tiene prohibido inventar datos. Para garantizar la precisión:
-*   **Búsqueda Activa:** Antes de corregir un examen complejo o validar una tesis, la IA **buscará en internet fuentes confiables** (FMI, Banco Mundial, papers académicos, datos gubernamentales) para verificar que tu respuesta (y la suya) esté actualizada y sea correcta.
-*   **Citas Obligatorias:** En los exámenes avanzados, la IA te exigirá citar fuentes. Argumentos basados en "creo que" serán rechazados.
-
-### 2. Metodologías de Enseñanza (El Reto)
-La IA utilizará métodos pedagógicos agresivos para asegurar que *realmente* entiendes:
-*   **🧠 Método Socrático (Interrogatorio):** La IA responderá a tus respuestas con más preguntas. "¿Por qué asumes que la demanda es elástica aquí?", "¿Qué pasaría si el gobierno imprime más dinero en este escenario específico?". El objetivo es encontrar el límite de tu lógica.
-*   **🗣️ Técnica Feynman (Simplificación):** Se te pedirá explicar conceptos complejos (como la *paridad del poder adquisitivo*) como si se lo explicaras a un niño de 12 años. Si usas jerga técnica para ocultar vacíos de conocimiento, fallarás.
-*   **⚔️ Abogado del Diablo:** La IA tomará posturas contrarias a las tuyas (incluso si son impopulares) para obligarte a defender tus ideas con datos y lógica económica sólida.
-
-### 3. El Proceso de Evaluación (El "Gauntlet")
-No avanzarás de fase hasta superar tres barreras en la carpeta `_Evaluacion`:
-1.  **Test Conceptual:** Preguntas directas de definición y relación. Precisión requerida: 100%.
-2.  **Caso de Estudio Real:** La IA presentará una noticia económica reciente real. Deberás analizarla usando las herramientas de la fase actual.
-3.  **Defensa Oral (Simulada):** Un debate breve donde la IA cuestionará cada punto de tus conclusiones del caso de estudio.
-
-*Solo cuando la IA escriba explícitamente **"APROBADO: PASE CONCEDIDO"** en tu archivo de evaluación, podrás moverte a la siguiente carpeta.*
-
-## �🗂 Estructura de Carpetas
-
-| Etapa                         | Contenido                                |
-| :---------------------------- | :--------------------------------------- |
-| `01_Fundamentos`              | Conceptos básicos (Escasez, Incentivos). |
-| `02_Microeconomia`            | Consumidores y Empresas.                 |
-| `03_Macroeconomia`            | Inflación, PIB, Desempleo.               |
-| `04_Historia_Economica`       | Crisis y Evolución Histórica.            |
-| `05_Escuelas_Pensamiento`     | Autores y Teorías (Keynes, Hayek, Marx). |
-| `06_Economia_Financiera`      | Inversiones y Mercados.                  |
-| `07_Economia_Digital_Moderna` | Crypto y Futuro.                         |
+## 🏛️ El Rol de la IA: Tu Catedrático Severo
+No soy tu amigo. Soy tu evaluador.
+*   **No tolero la ambigüedad.** O sabes el concepto o no lo sabes.
+*   **No paso por alto errores.** Un error de concepto en economía puede arruinar un país; no dejaré que arruines tu educación.
+*   **Mis correcciones serán directas y duras.** Es la única forma de mejorar.
 
 ---
-> *Empieza hoy. La constancia vencerá a la intensidad.*
-
+> *"Lo que no se puede explicar con palabras sencillas propias, no se ha entendido."* - No avances si no puedes explicarlo.
