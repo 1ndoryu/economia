@@ -65,12 +65,6 @@ Finalmente, el problema más profundo no es de información, sino de **incentivo
 
 Este problema del cálculo tiene implicaciones que trascienden los sistemas explícitamente socialistas. En contextos de abundancia aparente, esta restricción se olvida. Cuando la política pública ignora este cálculo y financia el consumo corriente exclusivamente mediante deuda o emisión, no está distribuyendo riqueza, está consumiendo capital. La estabilidad del sistema depende de administrar estas restricciones bajo criterios técnicos, no voluntariosos.
 
-Para esta sección, la mejor estrategia es agrupar las ideas por niveles de análisis: primero los **fallos específicos** del mercado, luego las **soluciones técnicas** (diseño de mecanismos), seguido de las **precondiciones institucionales** (reglas del juego) y finalmente el **sustrato cultural** (normas sociales).
-
-Aquí tienes la propuesta reestructurada para mejorar la fluidez lógica sin perder ningún matiz ni referencia:
-
----
-
 ### 2.3 Más Allá del Cálculo: Instituciones y Fallos de Mercado
 
 El problema del cálculo económico (Mises) y el conocimiento disperso (Hayek) explican por qué la planificación central tiende a colapsar. Sin embargo, sería un error concluir que basta con "liberar los mercados" para garantizar la prosperidad. La evidencia histórica sugiere que la ausencia de instituciones funcionales puede ser tan destructiva como el exceso de intervención.
