@@ -211,7 +211,7 @@ La ignorancia económica no es exclusiva del socialismo o del intervencionismo; 
 
 #### El intervencionismo orientado a la exportación (Corea del Sur, 1961-1996)
 
-El milagro surcoreano desafía la visión simplista del "Estado vs. Mercado". Bajo Park Chung-hee, el Estado no fue un observador pasivo, sino que aplicó una **política industrial activa** (Estado Desarrollista): eligió "ganadores" (*Chaebols*), dirigió crédito y subsidió sectores estratégicos.
+El milagro surcoreano desafía las categorizaciones simplistas. Una crítica común al enfoque liberal es que intenta minimizar el rol del Estado en este éxito, atribuyéndolo todo a que "se abrieron al mercado". La realidad histórica es más compleja: bajo Park Chung-hee, el Estado actuó como un **Capitalista de Riesgo (Venture Capitalist) Coercitivo**. Desafió abiertamente la ventaja comparativa estática (que dictaba producir textiles) para forzar una ventaja comparativa **dinámica** en industria pesada y semiconductores. No se limitó a "seguir precios", sino que los distorsionó deliberadamente para crear mercados que no existían.
 
 Sin embargo, el modelo se sustentó en una herramienta no de mercado vital: la **represión financiera**. El Estado nacionalizó la banca y mantuvo tasas de interés real negativas, forzando un subsidio cruzado desde los ahorristas domésticos hacia los grandes conglomerados (*Chaebols*) para financiar su expansión industrial barata. Según la teoría austríaca (Mises), falsear el precio del tiempo (la tasa de interés) debería generar *malinvestment* crónico —inversiones erróneas que eventualmente colapsan—. ¿Por qué esto no ocurrió en Corea durante décadas?
 
