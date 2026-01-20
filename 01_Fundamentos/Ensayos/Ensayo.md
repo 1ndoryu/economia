@@ -101,7 +101,7 @@ Sería ingenuo asumir que todos los fracasos económicos se deben exclusivamente
 
 Las políticas inflacionarias, el endeudamiento excesivo o el proteccionismo sectorial a menudo no reflejan ignorancia, sino **cálculo político racional**. Grupos de interés concentrados (sindicatos, industrias protegidas, burócratas) tienen fuertes incentivos para presionar por políticas que les benefician, mientras que el costo se dispersa entre millones de contribuyentes que, individualmente, tienen poco incentivo para oponerse (Olson, *La lógica de la acción colectiva*)[^27].
 
-**Integración teórica: Hayek y Public Choice no son contradictorios, sino complementarios.** Operan en niveles de análisis distintos:
+#### Hayek y Public Choice no son contradictorios, sino complementarios. Operan en niveles de análisis distintos.
 
 - El **problema del conocimiento** (Hayek/Mises) es una restricción *epistemológica del sistema*: explica por qué la planificación central *no puede* funcionar aunque el planificador fuera omnisciente y benevolente. No hay manera técnica de centralizar la información dispersa.
 - El **problema de los incentivos** (Public Choice) es una restricción *conductual del agente*: explica por qué los políticos *eligen* políticas destructivas incluso cuando podrían saber que son malas. El beneficio privado (reelección, poder) diverge del beneficio público.
